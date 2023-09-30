@@ -127,11 +127,11 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxASURxd&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxASURxd&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7lzerby1qirby20obbzd5k9tk&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7lzerby1qirby20obbzd5k9tk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
 
 ----
