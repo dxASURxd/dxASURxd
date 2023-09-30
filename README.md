@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-<img src="https://res.cloudinary.com/dnaokhykr/image/upload/v1695052891/asur_gv5bmz.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Asur, freelance developer 👨‍💻 Today a student, tomorrow an engineer 🚀</div>  
   
 
