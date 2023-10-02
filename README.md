@@ -131,12 +131,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dxASURxde&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7lzerby1qirby20obbzd5k9tk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
 
