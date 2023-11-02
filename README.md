@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <div align="center">I'm Asur, freelance developer 👨‍💻 Today a student, tomorrow an engineer 🚀</div>  
+### <div align="center">I'm Asur, freelance developer. Today a student, tomorrow an engineer </div>  
   
 
 - 🚌 Most recent project [Xidoo Rutas](https://xidoorutas.com/)  
   
 
-- 🤓 I’m currently learning Node and Go  
+- I’m currently learning Node and Go  
   
 
 - Ask me about anything related to TI and related technologies or videogames  
