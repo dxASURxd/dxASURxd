@@ -2,7 +2,6 @@
 
 
 ```sh
-npm create astro@latest -- --template basics
 asur_xd@hotmail.com
 ```
 
