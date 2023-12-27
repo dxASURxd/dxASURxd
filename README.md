@@ -1,5 +1,11 @@
 ### Hi there 
 
+
+```sh
+npm create astro@latest -- --template basics
+asur_xd@hotmail.com
+```
+
 <!--
 **dxASURxd/dxASURxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
